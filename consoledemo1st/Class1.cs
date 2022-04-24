@@ -19,6 +19,7 @@ namespace consoledemo1st
         static string GetString(int a)
         {
             uint b = 1;
+            b += 1;
 
             Console.WriteLine(b);
             return "a" + a;
