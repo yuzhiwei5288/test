@@ -11,9 +11,17 @@ namespace consoledemo1st
         static void Main(string[] args)
         {
             #region 测试折叠代码
-            Console.WriteLine(Program.GetString(value: 1));
+            Console.WriteLine(GetString(1));
             Console.ReadKey();
             #endregion
+        }
+
+        static string GetString(int a)
+        {
+            uint b = 1;
+
+            Console.WriteLine(b);
+            return "a" + a;
         }
 
 
