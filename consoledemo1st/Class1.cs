@@ -20,6 +20,7 @@ namespace consoledemo1st
         {
             uint b = 1;
             b += 1;
+            int c = (int)b;
 
             Console.WriteLine(b);
             return "a" + a;
