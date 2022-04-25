@@ -23,6 +23,7 @@ namespace consoledemo1st
             int c = (int)b;
             // dev分支
             // 5288提交dev分支
+            string s = "52885288提交dev分支";
 
             Console.WriteLine(b);
             return "a" + a;
