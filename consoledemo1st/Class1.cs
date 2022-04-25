@@ -28,7 +28,11 @@ namespace consoledemo1st
             // 520提交
             string ss = "520";
             // 测试一发
-            string st = "ceshi yifa";
+            // ss修改代码
+            string st = "ss修改st代码";
+
+            // ss添加新代码
+            string ssadd = "ssadd";
 
             Console.WriteLine(b);
             return "a" + a;
