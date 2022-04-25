@@ -24,6 +24,8 @@ namespace consoledemo1st
             // dev分支
             // 520提交
             string ss = "520";
+            // 测试一发
+            string st = "ceshi yifa";
 
             Console.WriteLine(b);
             return "a" + a;
