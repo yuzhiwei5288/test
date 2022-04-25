@@ -22,6 +22,9 @@ namespace consoledemo1st
             b += 1;
             int c = (int)b;
             // dev分支
+            // 5288
+            string tt = "5288";
+            // 测试小乌龟
             // 520提交
             string ss = "520";
             // 测试一发
