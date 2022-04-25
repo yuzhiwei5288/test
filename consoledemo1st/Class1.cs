@@ -32,7 +32,7 @@ namespace consoledemo1st
             string st = "ss修改st代码";
             // tt删除代码
             // tt添加新代码
-            string tt2 = "添加新代码";
+            string tt3 = "添加新代码";
             string ttadd = "ttadd";
             Console.WriteLine(ttadd+tt);
             // ss添加新代码
