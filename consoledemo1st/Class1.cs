@@ -22,8 +22,8 @@ namespace consoledemo1st
             b += 1;
             int c = (int)b;
             // dev分支
-            // 5288提交dev分支
-            string s = "5288提交dev分支";
+            // 5288
+            string tt = "5288";
 
             Console.WriteLine(b);
             return "a" + a;
