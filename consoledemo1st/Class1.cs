@@ -18,19 +18,11 @@ namespace consoledemo1st
 
         static string GetString(int a)
         {
-            uint b = 1;
-            b += 1;
-            int c = (int)b;
-            // dev分支
-            // 5288
-            string tt = "5288";
-            // 测试小乌龟
-            // 520提交
-            string ss = "520";
-            // 测试一发
-            string st = "ceshi yifa";
-
-            Console.WriteLine(b);
+            // tt删除代码
+            // tt添加新代码
+            string tt = "添加新代码";
+            string ttadd = "ttadd";
+            Console.WriteLine(ttadd+tt);
             return "a" + a;
         }
 
